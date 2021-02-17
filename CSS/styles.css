@@ -62,7 +62,7 @@ hr {
 }
 
 .adobe {
-  width: 25%;
+  width: 15%;
   float: right;
   margin-left: 10px;
 }
@@ -91,7 +91,7 @@ hr {
 }
 
 .skill-row {
-  width: 80%;
+  width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
 }
